@@ -33,5 +33,5 @@ The data covers one month and a small sample of trips, so zone rankings outside 
 ## Next steps
 Weekday vs weekend demand, fare per mile by distance, and testing whether the airport premium holds on a larger dataset.
 
-## My own questions
-*(Add the three questions you wrote in section 9 and what you found.)*
+
+   Prefer plain SQL? Import `raw_trips.csv` into DB Browser for SQLite (File → Import → Table from CSV file, name the table `raw_trips`), then run `queries.sql` in the Execute SQL tab.
